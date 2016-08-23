@@ -1,2 +1,4 @@
-# -ChessNiuniu
-a game
+# ChessNiuniu
+a game about niuniu
+                         by tjj 
+            
